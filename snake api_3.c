@@ -4,7 +4,7 @@
 #include<windows.h>
 #include<time.h>
 #include<ctype.h>
-
+//im soham
 struct Game
 {
     int X,Y;
